@@ -1,0 +1,5 @@
+C:\Users\II novbe\Desktop\Quiz\obj\Debug\net6.0\Quiz.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\Quiz\obj\Debug\net6.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Quiz\obj\Debug\net6.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Quiz\obj\Debug\net6.0\Quiz.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Quiz\obj\Debug\net6.0\Quiz.csproj.CoreCompileInputs.cache
